@@ -120,7 +120,6 @@
             color: #0f5132;
         }
 
-        /* Alert untuk pesan error */
         .alert.error {
             background: #f8d7da;
             color: #842029;

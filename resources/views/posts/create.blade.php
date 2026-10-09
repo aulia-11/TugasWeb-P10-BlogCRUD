@@ -6,7 +6,7 @@
 
     <div class="header">
         <div>
-            <h1>Tambah Postingan</h1>
+            <h1>Tamabah Postingan</h1>
             <p>Buat postingan blog baru.</p>
         </div>
     </div>
